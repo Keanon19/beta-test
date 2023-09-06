@@ -7,8 +7,7 @@ body{
     background: #253349;
     background-size: cover;
     background-position: center;
-    height: 100vh;
-    position: fixed;
+    height: 99vh;
 
 
 }
@@ -29,10 +28,11 @@ p {
     }
 
 
-    .marginauto{
-        margin-bottom: 50;
-        margin: 100px auto 20px;
-        display:block;
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: auto;
+      margin-bottom: auto;
     }
-    
     
