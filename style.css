@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    background: #253349;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: fixed;
+
+
+}
+
+h1{
+    font-family: arial;
+  color: #F4D35E;
+  text-align: center;
+  font-size: 100px;
+  
+}
+p {
+    text-align: center;
+    color: #F4D35E;
+    
+      font-family: arial;
+      font-size: 20px;
+    }
+
+
+    .marginauto{
+        margin-bottom: 50;
+        margin: 120px auto 20px;
+        display:block;
+    }
+    
